@@ -321,6 +321,3 @@ README.md
 > **Note:** The game requires direct access to BIOS/DOS interrupts. It only runs in a compatible real-mode DOS emulator such as emu8086 or DOSBox; it cannot be run directly on modern 64-bit operating systems.
 
 ---
-
-```
-```
